@@ -1,0 +1,43 @@
+_repo: L-homme-sauvage_43561
+_version: 0.1.0
+alternative_title: Der Wilde. French
+contributor:
+  translator:
+    agent_name: Mercier, Louis-Sébastien
+    aliases:
+    - Mercier, Louis Sébastien
+    - Mercier, Louis-Sebastien
+    - Mercier, Sébastian
+    - Mercier, Sébastien
+    - Mercier, Sebastian
+    - Mercier, L.-S. (Louis-Sébastien)
+    birthdate: 1740
+    deathdate: 1814
+    gutenberg_agent_id: '42296'
+    url: http://www.gutenberg.org/2009/agents/42296
+covers:
+- cover_type: archival
+  image_path: 43561-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pfeil, Johann Gottlob Benjamin
+    birthdate: 1732
+    deathdate: 1800
+    gutenberg_agent_id: '42268'
+    url: http://www.gutenberg.org/2009/agents/42268
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2013-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43561'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Utopias -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Primitive societies -- Fiction'
+title: L'homme sauvage
+url: http://www.gutenberg.org/ebooks/43561
