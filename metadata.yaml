@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '42268'
     url: http://www.gutenberg.org/2009/agents/42268
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43561#L-homme-sauvage
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2013-08-26'
 gutenberg_type: Text
